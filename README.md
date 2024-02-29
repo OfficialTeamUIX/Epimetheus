@@ -15,4 +15,9 @@
 </p>
 
 ## About The Project
-This project was built out of necesity. Simply put it is an STM addon board for Xbox "HDMI" addons that can be built rather than using a developer/debug board to match your current hardware install. As-is, it is non functional until paired with an existing pineapple flavored product, and license.
+This project was built out of necesity. Simply put it is an STM addon board for Xbox "HDMI" addons that can be built rather than using a developer/debug board to match your current hardware install while retaining the dev/debug functions. As-is, it is non functional until paired with an ST-Link dongle, and an existing pineapple flavored product, and license.
+
+The original debug/devboard utilization this board was based on.
+<p align="center">
+<img src="Images/sem.png" alt="SEM" width="50%" height="50%">
+</p>
