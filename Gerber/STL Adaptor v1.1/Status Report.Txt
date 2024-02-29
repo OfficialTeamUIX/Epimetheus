@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [STL Adaptor v1.1.PcbDoc]
+   Generated File[Pick Place for STL Adaptor v1.1.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:43:51 AM On 23/01/2024

@@ -1,0 +1,31 @@
+Altium Designer Pick and Place Locations
+C:\Users\NeMesiS\Desktop\XeniumMods v3.xx\Hardware\Version 3.xx\XeniumSTM\Gerbers\XeniumSTM v3.0\Pick Place for STM Addon v1.1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       23/01/24
+Time:       11:43
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment Layer    Footprint   Center-X(mil) Center-Y(mil) Rotation Description 
+U2         Comment TopLayer 0805-LED    2652.221      1695.785      180      ""          
+U6         Comment TopLayer JST08       1879.862      2416.411      0        ""          
+U5         Comment TopLayer SH06        2730.220      2037.376      270      ""          
+U1         Comment TopLayer STM32-48pin 2202.499      2037.530      90       ""          
+C6         Comment TopLayer 0805A       2451.767      2378.663      90       ""          
+C5         Comment TopLayer 0805A       2351.767      2378.663      90       ""          
+C4         Comment TopLayer 0805A       2252.221      1695.785      270      ""          
+C3         Comment TopLayer 0805A       2251.767      2378.663      90       ""          
+C2         Comment TopLayer 0805A       2152.221      1695.785      270      ""          
+R5         Comment TopLayer 0805A       2552.221      1695.785      90       ""          
+R4         Comment TopLayer 0805A       2551.767      2378.663      90       ""          
+R3         Comment TopLayer 0805A       2651.767      2378.663      90       ""          
+R2         Comment TopLayer 0805A       2352.221      1695.785      270      ""          
+R1         Comment TopLayer 0805A       2452.221      1695.785      270      ""          
+L1         Comment TopLayer 0805A       1752.221      1695.785      90       ""          
+C1         Comment TopLayer 0805A       1852.221      1695.785      90       ""          
+U3         Comment TopLayer SOT-235     2002.365      1714.840      0        ""          
+U4         Comment TopLayer SH03        1674.956      2096.129      90       ""          
